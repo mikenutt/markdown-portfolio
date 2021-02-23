@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture of Mike Nutt](https://www.lib.ncsu.edu/sites/default/files/nutt-0199.jpg)
